@@ -1,7 +1,7 @@
 package main
 
 import (
-	"hamsterclient/client"
+	"github.com/Budlee/hamsterclient/client"
 	"log"
 )
 
